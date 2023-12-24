@@ -1,5 +1,8 @@
 # PIANO (Physical Invariant Attention Neural Operator)
 
+This repository contains the code for the paper
+- **Deciphering and integrating invariants for neural operator learning with various physical mechanisms**
+
 **TLDR:** PIANO: a new operator learning framework that deciphers and incorporates invariants from the PDE series via self-supervised learning and attention technique, achieving superior performance in scenarios with various physical mechanisms.
 
 ## Abstract
