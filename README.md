@@ -13,7 +13,7 @@ Neural operators have been explored as surrogate models for simulating physical 
 
 ## Quick Start
 For each task, you can run the following three main files sequentially:
-1. Generate the train/test/validation data (main.py in the data folder)
+1. Generate the train/test/validation data (generate_data.py in the data folder)
 2. Train the PI encoder (main.py in the pretrain folder)
 3. Train the neural operator (main.py in the train folder)
 
