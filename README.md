@@ -24,12 +24,19 @@ For each task, you can run the following three main files sequentially:
 
 This paper has been accepted by the _National Science Review_. If you find our work useful in your research, please consider citing:
 ```
-@article{zhang2023deciphering,
-  title={Deciphering and integrating invariants for neural operator learning with various physical mechanisms},
-  author={Zhang, Rui and Meng, Qi and Ma, Zhi-Ming},
-  journal={National Science Review},
-  year={2024}
+@article{10.1093/nsr/nwad336,
+    author = {Zhang, Rui and Meng, Qi and Ma, Zhi-Ming},
+    title = "{Deciphering and integrating invariants for neural operator learning with various physical mechanisms}",
+    journal = {National Science Review},
+    pages = {nwad336},
+    year = {2023},
+    month = {12},
+    issn = {2095-5138},
+    doi = {10.1093/nsr/nwad336},
+    url = {https://doi.org/10.1093/nsr/nwad336},
+    eprint = {https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwad336/54922405/nwad336.pdf},
 }
+
 ```
 
 If you have any questions, please feel free to contact me via: rayzhang@amss.ac.cn
